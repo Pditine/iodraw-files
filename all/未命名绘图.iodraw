@@ -74,8 +74,8 @@
         <mxCell id="7XPMK_6IxpJPv6fqexIv-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.277;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="sDrRhYhpgQM9u5unT8lH-7" target="sDrRhYhpgQM9u5unT8lH-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7XPMK_6IxpJPv6fqexIv-1" value="DamageTriggeringInfo" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1122.5" y="982" width="160" height="38" as="geometry">
+        <mxCell id="7XPMK_6IxpJPv6fqexIv-1" value="ScriptableObject&#xa;" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="140" y="990" width="160" height="38" as="geometry">
             <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
