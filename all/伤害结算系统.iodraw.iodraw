@@ -186,7 +186,10 @@
           <mxGeometry x="1120" y="350" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="_hB2ABfrQX788jzc3MIY-30" value="DamageInfluence" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1130" y="360" width="140" height="50" as="geometry" />
+          <mxGeometry x="1120" y="410" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_hB2ABfrQX788jzc3MIY-32" value="..." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=27;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="910" y="205" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
