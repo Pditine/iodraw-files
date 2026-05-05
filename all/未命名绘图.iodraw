@@ -361,8 +361,8 @@
             <mxPoint x="640" y="690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7XPMK_6IxpJPv6fqexIv-113" value="外部" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=27;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="107.5" y="580" width="60" height="30" as="geometry" />
+        <mxCell id="7XPMK_6IxpJPv6fqexIv-113" value="Buff配置" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=27;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="380" y="1400" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
