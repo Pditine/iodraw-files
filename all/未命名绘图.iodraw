@@ -260,8 +260,13 @@
             <mxRectangle x="130" y="380" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7XPMK_6IxpJPv6fqexIv-62" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;BuffType&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=1;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="215" y="1058" width="70" height="30" as="geometry" />
+        <mxCell id="7XPMK_6IxpJPv6fqexIv-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="7XPMK_6IxpJPv6fqexIv-60" source="7XPMK_6IxpJPv6fqexIv-62">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="-50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7XPMK_6IxpJPv6fqexIv-62" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;BuffType&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=1;fontSize=15;" vertex="1" parent="7XPMK_6IxpJPv6fqexIv-60">
+          <mxGeometry y="30" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
