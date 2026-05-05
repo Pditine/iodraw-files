@@ -12,15 +12,14 @@
             <mxRectangle x="130" y="380" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7XPMK_6IxpJPv6fqexIv-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.019;entryY=0.433;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="7XPMK_6IxpJPv6fqexIv-95">
+        <mxCell id="7XPMK_6IxpJPv6fqexIv-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="717.5" y="807" as="sourcePoint" />
-            <mxPoint x="820" y="874" as="targetPoint" />
+            <mxPoint x="817" y="890" as="targetPoint" />
             <Array as="points">
               <mxPoint x="769" y="807" />
               <mxPoint x="769" y="900" />
-              <mxPoint x="820" y="900" />
-              <mxPoint x="820" y="901" />
+              <mxPoint x="817" y="900" />
             </Array>
           </mxGeometry>
         </mxCell>
