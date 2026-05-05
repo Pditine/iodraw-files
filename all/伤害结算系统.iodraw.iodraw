@@ -186,7 +186,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_hB2ABfrQX788jzc3MIY-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_hB2ABfrQX788jzc3MIY-26" target="_hB2ABfrQX788jzc3MIY-44">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="970" y="500" />
+              <mxPoint x="690" y="500" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="_hB2ABfrQX788jzc3MIY-26" value="DamageInfluence" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=32;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="900" y="386" width="140" height="62" as="geometry" />
@@ -288,6 +293,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="810" y="740" as="sourcePoint" />
             <mxPoint x="920" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_hB2ABfrQX788jzc3MIY-57" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="820" y="750" as="sourcePoint" />
+            <mxPoint x="820" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
