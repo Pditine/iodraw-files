@@ -64,7 +64,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sDrRhYhpgQM9u5unT8lH-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="97.5" y="524" width="432.5" height="60" as="geometry" />
+          <mxGeometry x="97.5" y="530" width="432.5" height="54" as="geometry" />
         </mxCell>
         <mxCell id="sDrRhYhpgQM9u5unT8lH-8" value="Event" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=27;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="120" y="539" width="60" height="30" as="geometry" />
