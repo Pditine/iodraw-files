@@ -48,7 +48,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sDrRhYhpgQM9u5unT8lH-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="60" y="530" width="780" height="110" as="geometry" />
+          <mxGeometry x="50" y="530" width="780" height="110" as="geometry" />
         </mxCell>
         <mxCell id="sDrRhYhpgQM9u5unT8lH-3" value="外部" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=27;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="97.5" y="570" width="60" height="30" as="geometry" />
@@ -70,9 +70,6 @@
               <mxPoint x="242.5" y="782" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="sDrRhYhpgQM9u5unT8lH-16" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;background-color: rgb(25, 26, 28);&quot;&gt;&lt;pre style=&quot;&quot;&gt;&lt;font face=&quot;JetBrains Mono, monospace&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;ScriptableObject&lt;/span&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;align=center;fontColor=none;noLabel=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="206.25" y="1020" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7XPMK_6IxpJPv6fqexIv-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.277;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="sDrRhYhpgQM9u5unT8lH-7" target="sDrRhYhpgQM9u5unT8lH-1">
           <mxGeometry relative="1" as="geometry" />
